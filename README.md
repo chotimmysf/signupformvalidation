@@ -3,7 +3,7 @@
 Link to <a href="https://chotimmysf.github.io/signupformvalidation/" target="_blank">Live Demo App</a>
 BACKSTORY
 
-This project was inspired by the "Restaraunt Georgia" project in this <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/learn/lecture/17842006#overview" target="_blank">Vanilla JavaScript Course.</a> This is the first time I wrote JavaScript code as a major part of my project. As I made this project, I learned how to set alerts for limits on characters (ex. a 10 character minimum for a username, a 11 character limit for a password), as well as some light exposure to functions of JavaScript, such as the slice function.
+This project was inspired by the "Form Validation" project in this <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/learn/lecture/17842006#overview" target="_blank">Vanilla JavaScript Course.</a> This is the first time I wrote JavaScript code as a major part of my project. As I made this project, I learned how to set alerts for limits on characters (ex. a 10 character minimum for a username, a 11 character limit for a password), as well as some light exposure to functions of JavaScript, such as the slice function. The project itself is a prototype of a signup page for email alerts from a site that has recipes for strawberry pastries and desserts.
 
 PROJECT JOURNEY INSIGHTS
 
