@@ -50,4 +50,4 @@ Refine Skills: Review HTML/CSS elements/functions
 
 <strong>MENTOR:</strong>
 
-<a href="https://github.com/alexsjcho" target="_blank">Alex Cho</a>
+<a href="https://www.linkedin.com/in/alexsjcho/" target="_blank">Alex Cho - Technical Product Manager</a>
